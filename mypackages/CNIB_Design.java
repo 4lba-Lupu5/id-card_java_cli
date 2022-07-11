@@ -126,10 +126,4 @@ public class CNIB_Design {
         System.out.println("|[][][][][][][][][][][][][][][][][][][][**" + this + "**]|");
         System.out.println("|___________________________________________________________________________|");
     }
-
-
-    public void identifiantCNiB(){
-        System.out.println("\t\t\t\t\t\t " + this);
-    }
-
 }
